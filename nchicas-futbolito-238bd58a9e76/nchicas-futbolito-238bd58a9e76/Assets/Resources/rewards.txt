@@ -1,0 +1,7 @@
+Goal,Name,Description,Promo
+70,Tres Leches,Gana un postre 3 leches gratis,"Has ganado un postre 3 leches gratis, revisa tu correo para canjearlo"
+150,Combito Campero,Gana un Combito Campero gratis,"Has ganado un Combito Campero gratis, revisa tu correo  para canjearlo"
+260,30 Camperitos/Alitas,"Gana un banquete de 30 Camperitos, Alitas 0 20 Pechuguitas gratis","Has ganado un Banquete de 30 Camperitos, Alitas o 20 Pechuguitas para compartir con tus amigos nuestros Restaurantes, revisa tu correo para canjearlo"
+410,Hora en Futeca,Gana una hora de juego en Futeca gratis,"Has ganado  una hora para jugar futbol con tus amigos en Futeca gratis, revisa tu correo para canjearlo"
+570,Camisa mundialista,Gana una camisa munidalista gratis,"Has ganado una camisa de futbol gratis revisa tu correo para canjearlo, revisa tu correo para canjearlo"
+650,Pelota mundialista,Gana una pelota mundialista gratis,"Has ganado un Pelota de futbol gratis revisa tu correo  para canjearlo, revisa tu correo para canjearlo"
